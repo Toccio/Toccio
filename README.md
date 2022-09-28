@@ -15,7 +15,6 @@
 - 📫 How to reach me:
 
   📧luca.t.visaggio@gmail.com
-  💻www.linkedin.com/in/luca-visaggio/
-
+  💻https://www.linkedin.com/in/luca-visaggio/
 - ⚡ Fun fact: I'm a Manga/Manhwa🗾 expert, passionate about travel🌍, cooking🍕 and painting.
 - 🥅 2022 Goals: Learn More about coding.
