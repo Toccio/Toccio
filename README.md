@@ -1,4 +1,5 @@
-![hello_world](https://user-images.githubusercontent.com/103050056/192830939-17696550-59f5-4b88-8a96-24db77a621eb.jpg)
+![hello_world01](https://user-images.githubusercontent.com/103050056/192831812-7ed54e98-493d-4037-b7db-01338e540af1.jpg)
+
 
 
 # Hi there, I'm Luca - aka [Toccio] 👋
