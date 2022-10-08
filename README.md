@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning and improving: Advanced CSS and Sass: Flexbox, Grid, Animations and More!
 
-- 💬 Ask me about anithing!
+- 💬 Ask me about anything!
 
 - 📫 How to reach me:
 
