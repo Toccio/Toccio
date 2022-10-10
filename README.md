@@ -1,5 +1,4 @@
-"C:\Users\luca1\OneDrive\Desktop\cv_eng\hello_world001.jpg"
-
+![hello_world](https://user-images.githubusercontent.com/103050056/194868412-b88ac1ea-9e26-4e5d-a8ac-a2f778ab24fe.jpg)
 
 # Hi there, I'm Luca - aka [Toccio] 👋
 
