@@ -1,4 +1,4 @@
-
+"C:\Users\luca1\OneDrive\Desktop\cv_eng\hello_world001.jpg"
 
 
 # Hi there, I'm Luca - aka [Toccio] 👋
