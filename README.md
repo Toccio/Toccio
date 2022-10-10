@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on a italian language institute website
 
-- 🌱 I’m currently learning and improving: Advanced CSS and Sass: Flexbox, Grid, Animations and More!
+- 🌱 I’m currently learning and improving: React, Advanced CSS and Sass: Flexbox, Grid, Animations and More!
 
 - 💬 Ask me about anything!
 
