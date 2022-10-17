@@ -3,7 +3,7 @@
 # Hi there, I'm Luca - aka [Toccio] 👋
 
 
-## I'm a Husband, Father and Junior Developer!!
+## I'm a Junior Developer!!
 
 - 🔭 I’m currently working on a italian language institute website
 
